@@ -5,4 +5,4 @@ Este ejercicio es parte del bootcamp de **Desarrollo Front-end VUE JS**, realiza
 
 - Modulo : Programación con JavaScript
 - Tipo 	: Practica
-- Herramientas : JavaScript, jQuery, Ajax
+- Herramientas : JavaScript
